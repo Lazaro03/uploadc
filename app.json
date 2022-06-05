@@ -4,11 +4,11 @@
   "env": {
     "administrador": {
       "description": "Admin del bot",
-      "value": ""
+      "value": "Michel1203"
     },
     "bot_token": {
       "description": "Token del bot",
-      "value": ""
+      "value": "5559568590:AAHbtw5C3b1gCTk8rmj-GQ9gTwqHut-aq38"
     }
   },
   "buildpacks": [
